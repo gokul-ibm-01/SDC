@@ -10,3 +10,7 @@
 10. LangChain - Medical Diagonsis
 11. ANN - Diabetic Prediction
 12. LSTM - Text Generator
+13. K Means - Weather Predicition
+14. K Nearest Neighbours - Flower Prediction
+15. Desicion Tree - Promotion Prediction
+16. GAN - MNIST
