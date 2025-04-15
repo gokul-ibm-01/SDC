@@ -3,3 +3,4 @@
 3. Random Forest - Password Checker
 4. CNN - Image Classifier
 5. RNN - Movie Sentiment
+6.LangChain - ChatBot
