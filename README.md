@@ -8,3 +8,5 @@
 8. LangChain - Language Translator
 9. LangChain - Resume Analyzer
 10. LangChain - Medical Diagonsis
+11. ANN - Diabetic Prediction
+12. LSTM - Text Generator
