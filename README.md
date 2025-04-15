@@ -14,3 +14,5 @@
 14. K Nearest Neighbours - Flower Prediction
 15. Desicion Tree - Promotion Prediction
 16. GAN - MNIST
+17. Linear Regression 2 - House Price Prediction
+18. Logistic Regression 2 - House Price Prediction
