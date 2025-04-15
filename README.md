@@ -3,4 +3,8 @@
 3. Random Forest - Password Checker
 4. CNN - Image Classifier
 5. RNN - Movie Sentiment
-6.LangChain - ChatBot
+6. LangChain - ChatBot
+7. LangChain - News Summarizer
+8. LangChain - Language Translator
+9. LangChain - Resume Analyzer
+10. LangChain - Medical Diagonsis
