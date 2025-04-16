@@ -16,3 +16,4 @@
 16. GAN - MNIST
 17. Linear Regression 2 - House Price Prediction
 18. Logistic Regression 2 - House Price Prediction
+19. RAG - Youtube Summarizer
