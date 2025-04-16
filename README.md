@@ -17,3 +17,4 @@
 17. Linear Regression 2 - House Price Prediction
 18. Logistic Regression 2 - House Price Prediction
 19. RAG - Youtube Summarizer
+20. RAG - Medical Q&A
